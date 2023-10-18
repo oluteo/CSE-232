@@ -33,7 +33,7 @@ The program's functionality includes the following:
 3. Run the compiled executable.
 
 ## License
-This project is provided under an open-source license. You can view the full license details in the [License.md](../License.md) file.
+This project is provided under an open-source license. You can view the full license details in the [License.md](../../License.md) file.
 
 Feel free to use, modify, and distribute this code according to the terms of the license.
 
