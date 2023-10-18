@@ -1,6 +1,6 @@
-# Times Table Calculator
+# For to While Program
 
-This C++ program calculates and displays the times table for a specified range of rows and columns. It takes user input for the range of rows and columns and generates the times table for that range.
+This C++ program converts a "for" loop to an equivalent "while" loop, making it a useful exercise for practicing different loop structures in programming.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -12,7 +12,7 @@ This C++ program calculates and displays the times table for a specified range o
 - [License](#license)
 
 ## Introduction<a name="introduction"></a>
-The Times Table Calculator is a C++ program designed to help you generate times tables for a specific range of rows and columns. It's a useful tool for students and teachers to practice multiplication tables.
+The For to While Program is a C++ tool that demonstrates the conversion of a "for" loop into an equivalent "while" loop. This exercise helps programmers become familiar with different loop structures and coding practices.
 
 ## Prerequisites<a name="prerequisites"></a>
 - C++ compiler
@@ -20,11 +20,11 @@ The Times Table Calculator is a C++ program designed to help you generate times 
 ## Usage<a name="usage"></a>
 1. Compile the program using a C++ compiler.
 2. Run the compiled executable.
-3. Enter the range for rows and columns when prompted.
-4. The program will generate and display the times table for the specified range.
+3. Input the number of lines when prompted.
+4. The program will convert a "for" loop into an equivalent "while" loop and display the output.
 
 ## Functionality<a name="functionality"></a>
-The program calculates the times table by multiplying row values by column values. It can generate times tables for a user-defined range.
+The program converts a "for" loop into an equivalent "while" loop and generates a pattern of characters and numbers.
 
 ## Installation<a name="installation"></a>
 1. Download the provided C++ source code file [main.cpp](main.cpp).
@@ -41,4 +41,4 @@ Please feel free to use, modify, and distribute this code according to the terms
 
 For questions or support, contact the author at [ibukunoluwaolutayo@gmail.com](mailto:ibukunoluwaolutayo@gmail.com).
 
-Enjoy calculating times tables with this C++ program!
+Enjoy practicing different loop structures with this C++ program!
